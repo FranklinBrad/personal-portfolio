@@ -1,0 +1,106 @@
+header{
+    background-color: rgb(90, 1, 255);
+    font-size: 30px;
+    padding: 30px;
+    background-image: url(https://images.wallpapersden.com/image/download/purple-glowing-wave-4k-windows-11_bmZmZWuUmZqaraWkpJRobWllrWdma2U.jpg);
+    background-size: cover;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white
+    
+    
+}
+
+
+
+.header div {
+    padding-top: 20px;
+    margin-right: 25px;
+    float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: blueviolet;
+}   
+.header div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.about-me{
+    margin-top: 80px ;
+    margin-bottom: 20px;
+    margin-right: 300px;
+    padding: 50px;
+    padding-top: 10px;
+    height: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #651153;
+    color: #ffffff;
+    border: 1px solid;
+    border-radius: 5%;
+
+}
+
+.about-me img {
+    max-height: 150px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.my-work img {
+    max-height: 300px
+}
+
+
+
+.my-work {
+   
+    color: rgb(255, 253, 253);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 200px;
+}
+
+body {
+    background-color: rgb(34, 28, 32);
+}
+
+h2 {
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+.img1{
+ padding-left: 40px;
+}
+
+.more-work img{
+max-height: 200px;
+padding-left: 50px;
+}
+
+.more-work {
+    color:rgb(255, 253, 253);
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+}
+
+.contact-info{
+    float: right;
+    color:blanchedalmond;
+    background-color: black;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    width: 30%;
+    height: 100%;
+}
+
+
+
+
+
+
+
